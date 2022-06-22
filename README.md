@@ -1,2 +1,0 @@
-# first-stone
-training repository
