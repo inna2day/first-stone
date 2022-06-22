@@ -33,6 +33,7 @@
  ### *Приложения*
  - [Use-case диаграммы](https://docs.google.com/document/d/1iCswm0IfZGKtroM8oMSr4eeWgTjNaNcDdlCogjKoL58/edit?usp=sharing)
  -  версии документа
+ 
  |Дата         |Версия |Описание          | Автор    |
  |:------------|:------|:-----------------|:---------|
  |  07.09.2021 | 1.0.0 | первая версия    | inna     |
